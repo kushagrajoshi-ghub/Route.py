@@ -32,6 +32,7 @@ python Route.py [source_city] [destination_city] [routing_option] [routing_algor
 
 ![Screenshot (40)](https://github.com/kushagrajoshi-ghub/Route.py/assets/85024946/12854ae8-4533-4e9e-a353-814acc8a013f)
 <img width="1344" height="526" alt="Screenshot 2025-10-22 at 11 16 34 PM" src="https://github.com/user-attachments/assets/2bb858d8-7f92-4e7f-97bd-a6a129b8048e" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/8985cf0a-0921-43fb-a1d9-17056a96d89b" />
 
 
 ## Results
